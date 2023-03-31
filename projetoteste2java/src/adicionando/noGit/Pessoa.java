@@ -8,15 +8,7 @@ public class Pessoa {
 	
 	private int idade;
 	
-	private Date datanascimento;
-
-	public Date getDatanascimento() {
-		return datanascimento;
-	}
-
-	public void setDatanascimento(Date datanascimento) {
-		this.datanascimento = datanascimento;
-	}
+	private String dataNascimento;
 
 	public int getIdade() {
 		return idade;
