@@ -8,16 +8,6 @@ public class Pessoa {
 	
 	private int idade;
 	
-	private int localNumber;
-	
-	public int getLocalNumber() {
-		return localNumber;
-	}
-
-	public void setLocalNumber(int localNumber) {
-		this.localNumber = localNumber;
-	}
-
 	private String dataNascimento;
 
 	public String getDataNascimento() {
