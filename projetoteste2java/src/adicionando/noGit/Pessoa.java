@@ -2,11 +2,11 @@ package adicionando.noGit;
 
 public class Pessoa {
 	
+	private int idade;
+	
 	private String nome;
 	
 	private String sobrenome;
-	
-	private int idade;
 	
 	private String dataNascimento;
 
